@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tkordahi
+- 👋 Hi, I’m Tina Kordahi
 - 👀 I’m interested in becoming a business analyst or data analyst
 - 🌱 I’m currently brushing up on SQL and Tableau
 - 💞️ I’m looking to collaborate on any BI projects
